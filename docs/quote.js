@@ -1,6 +1,5 @@
 $(document).ready(function(){
     var html = "";
-    var arr = [];
 
     $.getJSON("https://quotes.rest/qod.json", function(a) {
        console.log(a.contents.quotes[0]);
