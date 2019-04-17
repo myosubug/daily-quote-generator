@@ -1,6 +1,6 @@
 # daily quote generator
 
-This app generates a daily random quote.
+This app generates a random math quote.
 
 ## Live example
 
