@@ -1,10 +1,10 @@
 # daily quote generator
 
-This is a simple to-do list that can add/remove to-dos.
+This app generates a daily random quote.
 
 ## Live example
 
-* 
+* https://myosubug.github.io/daily-quote-generator/
 
 ## Prerequisites
 
