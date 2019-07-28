@@ -17,8 +17,9 @@ No installation is required.
 
 ## Built With
 
-* JQuery
+* jQuery
 * html
 * css
 * bootstrap
+* random quote api
 
